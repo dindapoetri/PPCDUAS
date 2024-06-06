@@ -1,14 +1,13 @@
-# Projek Kriptografi
+# Projek Pengolahan Citra Digital
 
-Dibangun untuk memenuhi kriteria pemenuhan Ujian Akhir Semester 3 mata kuliah Kriptografi.
+Dibangun untuk memenuhi kriteria pemenuhan Ujian Akhir Semester 4.
 
 ## Cara Penggunaan
 
-Program ini menggunakan _library_ `pycryptodome` dan `streamlit`. Lakukan unduhan untuk library.
+Program ini menggunakan  `streamlit`. Lakukan unduhan untuk library.
 
 ```bash
 pip install streamlit
-pip install pycryptodome
 ```
 
 Lakukan `clone` atau download repositori ini.
