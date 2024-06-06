@@ -1,0 +1,7 @@
+streamlit
+pycryptodome
+cv2 # Modul untuk mengolah citra digital 
+numpy
+tempfile
+os
+matplotlib
